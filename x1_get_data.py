@@ -1,5 +1,4 @@
 import os
-import wget
 import requests
 import zipfile
 import pandas as pd
